@@ -11,7 +11,19 @@ namespace CS_practical
     {
         static void Main(string[] args)
         {
-            CS_practical.Class2.Tutorial3_3main(args);
+            CS_practical.TestEmployee.Tutorial3_10Main(args);
+
+            // CS_practical.TestClock.Tutorial3_9Main(args);
+
+            // CS_practical.TestStudent8.Tutorial3_8Main(args);
+
+            // CS_practical.TestStudent.Tutorial3_7Main(args);
+
+            // CS_practical.TestLine.Tutorial3_6Main(args);
+
+            //CS_practical.TestProduct.Tutorial3_5Main(args);
+
+            // CS_practical.Class2.Tutorial3_3main(args);
 
             // CS_practical.Program2.Tutorial3_2main(args);
 

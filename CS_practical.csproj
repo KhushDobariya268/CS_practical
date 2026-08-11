@@ -70,8 +70,14 @@
     <Compile Include="Tutorial2_7.cs" />
     <Compile Include="Tutorial2_8.cs" />
     <Compile Include="Tutorial3_1.cs" />
+    <Compile Include="Tutorial3_10.cs" />
     <Compile Include="Tutorial3_2.cs" />
     <Compile Include="Tutorial3_3.cs" />
+    <Compile Include="Tutorial3_5.cs" />
+    <Compile Include="Tutorial3_6.cs" />
+    <Compile Include="Tutorial3_7.cs" />
+    <Compile Include="Tutorial3_8.cs" />
+    <Compile Include="Tutorial3_9.cs" />
     <Compile Include="Uppercase.cs" />
     <Compile Include="User_Input.cs" />
     <Compile Include="While_Loop.cs" />
