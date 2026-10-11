@@ -60,6 +60,8 @@
     <Compile Include="Sum__of _the _series _of_5.cs" />
     <Compile Include="table.cs" />
     <Compile Include="ToggleCase.cs" />
+    <Compile Include="Tutorail4_3.cs" />
+    <Compile Include="Tutorail4_9.cs" />
     <Compile Include="Tutorial2_1.cs" />
     <Compile Include="Tutorial2_11.cs" />
     <Compile Include="Tutorial2_12.cs" />
@@ -89,6 +91,14 @@
     <Compile Include="Tutorial3_7.cs" />
     <Compile Include="Tutorial3_8.cs" />
     <Compile Include="Tutorial3_9.cs" />
+    <Compile Include="Tutorial4_1.cs" />
+    <Compile Include="Tutorial4_10.cs" />
+    <Compile Include="Tutorial4_2.cs" />
+    <Compile Include="Tutorial4_4.cs" />
+    <Compile Include="Tutorial4_5.cs" />
+    <Compile Include="Tutorial4_6cs.cs" />
+    <Compile Include="Tutorial4_7.cs" />
+    <Compile Include="Tutorial4_8.cs" />
     <Compile Include="Uppercase.cs" />
     <Compile Include="User_Input.cs" />
     <Compile Include="While_Loop.cs" />

@@ -27,6 +27,7 @@ namespace CS_practical
             Console.WriteLine("Enrollment Number: " + s.enrollNO);
             Console.WriteLine("Student Name is: " + s.name);
             Console.ReadLine();
+            Console.WriteLine("Name:- khush dobariya , Enrollment:- 25SOECE13052");
         }
     }
 }

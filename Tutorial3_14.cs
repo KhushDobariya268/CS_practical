@@ -37,6 +37,8 @@ namespace CS_practical
             double amount = Convert.ToDouble(Console.ReadLine());
             emp.SetSalary(amount);
             Console.WriteLine("Employee Salary is: " + emp.GetSalary());
+
+            Console.WriteLine("Name:- khush dobariya , Enrollment:- 25SOECE13052");
         }
     }
 }

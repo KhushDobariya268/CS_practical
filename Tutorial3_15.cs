@@ -48,7 +48,7 @@ namespace CS_practical
 
             p.DisplayPersonDetails();
             p.DisplayStudentDetails();
-
+            Console.WriteLine("Name:- khush dobariya , Enrollment:- 25SOECE13052");
         }
     }
 }

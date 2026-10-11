@@ -62,6 +62,7 @@ namespace CS_practical
             c.CalculateSalary();
 
             Console.Read();
+            Console.WriteLine("Name:- khush dobariya , Enrollment:- 25SOECE13052");
         }
     }
 }

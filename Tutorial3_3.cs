@@ -46,6 +46,9 @@ namespace CS_practical
             student.Display();
 
             Console.ReadLine();
+
+            Console.WriteLine("name: khush Dobariya");
+            Console.WriteLine("enrollment number: 25SOECE13052");
         }
     }
 }

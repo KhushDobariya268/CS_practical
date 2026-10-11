@@ -51,6 +51,8 @@ namespace CS_practical
 
             Console.WriteLine("--------Product Details--------");
             product.Display();
+
+            Console.WriteLine("Name:- khush dobariya , Enrollment:- 25SOECE13052");
         }
     }   
 }

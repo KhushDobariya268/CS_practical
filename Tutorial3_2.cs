@@ -90,6 +90,9 @@ namespace CS_practical
             Console.WriteLine("Minutes : " + clock2.Getminutes());
             Console.WriteLine("Seconds : " + clock2.Getseconds());
 
+            Console.WriteLine("name: khush Dobariya");
+            Console.WriteLine("enrollment number: 25SOECE13052");
+
         }
     }
 }

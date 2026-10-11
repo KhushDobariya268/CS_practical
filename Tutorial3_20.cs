@@ -30,6 +30,9 @@ namespace CS_practical
             Student4 s1 = new Student4(101, "khush");
             s1.Display();
             Console.ReadLine();
+
+            Console.WriteLine("Name:- khush dobariya , Enrollment:- 25SOECE13052");
+
         }
     }
 }

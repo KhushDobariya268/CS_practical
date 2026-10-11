@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static CS_practical.Sum_of_3;
+
 
 namespace CS_practical
 {
@@ -11,12 +11,33 @@ namespace CS_practical
     {
         static void Main(string[] args)
         {
-          
-            CS_practical.Class_Tutorial3_21.Tutorial3_21main();
+
+
+            CS_practical.Class_Tutorial4_10.Tutorial4_10Main();
+
+            // CS_practical.Class_Tutorial4_9.Tutorial4_9Main();
+
+            // CS_practical.Class_Tutorial4_8.Tutorial4_8Main();
+
+            // CS_practical.Class_Tutorial4_7.Tutorial4_7Main(args);
+
+            // CS_practical.Class_Tutorial4_6.Tutorial4_6Main(args);
+
+            // CS_practical.Class_Tutorial4_5.Tutorial4_5Main(args);
+
+            //  CS_practical.Class_Tutorial4_4.Tutorial4_4Main(args);
+
+            // CS_practical.Class_Tutorial4_3.Tutorial4_3Main(args);
+
+            // CS_practical.Class_Tutorial4_2.Tutorial4_2Main(args);
+
+            // CS_practical.Class_Tutorial4_1.Tutorial4_1Main(args);
+
+            // CS_practical.Class_Tutorial3_21.Tutorial3_21main();
 
             // CS_practical.Class_Tutorial3_20.Tutorial3_20Main(args);
 
-            //CS_practical.Class_Tutorial3_19.Tutorial3_19Main(args);
+            // CS_practical.Class_Tutorial3_19.Tutorial3_19Main(args);
 
             // CS_practical.Class_Tutorial3_18.Tutorial3_18Main();
 
