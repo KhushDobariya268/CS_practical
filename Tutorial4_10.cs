@@ -31,8 +31,6 @@ namespace CS_practical
 
             Console.ReadKey();
 
-            Console.ReadLine();
-
             Console.WriteLine("Name:- khush dobariya , Enrollment:- 25SOECE13052");
         }
     }
